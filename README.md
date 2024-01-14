@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/yadnesh-gondhali-b9b928257">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=yadneshgondhali28&style=flat-square&color=blue" alt="views counter"/>
 </div>
 
 - 👋 Hi, I’m @yadneshgondhali28
