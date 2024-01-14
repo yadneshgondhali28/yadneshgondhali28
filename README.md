@@ -18,14 +18,14 @@
 ---
 
 ### :man_technologist: About Me :
-I current aim is to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My current aim is to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m learning frontend web devlopment languages for now such as HTML, CSS, JS.
 
 - :seedling: Exploring New Technologies About Web Development.
 
 - :zap: In my free time, I watch videos on developing web development skills on youtube by some professionals such as @codewithharry, @abmcode.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-gondhali-b9b928257)
   
 - 👋 Hi, I’m @yadneshgondhali28
 - 👀 I’m interested in ...
