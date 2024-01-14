@@ -41,7 +41,7 @@ My current aim is to become a Full Stack Developer <img src="https://media.giphy
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadneshgondhali28&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadneshgondhali28&theme=dark)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @yadneshgondhali28
 - 👀 I’m interested in ...
