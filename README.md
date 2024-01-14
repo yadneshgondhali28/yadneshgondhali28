@@ -38,6 +38,11 @@ My current aim is to become a Full Stack Developer <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yadneshgondhali@28&theme=dark&background=000000)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m @yadneshgondhali28
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
