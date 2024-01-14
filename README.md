@@ -50,8 +50,6 @@ My current aim is to become a Full Stack Developer <img src="https://media.giphy
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### :flag: india
-
 <!---
 yadneshgondhali28/yadneshgondhali28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
