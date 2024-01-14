@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-My current aim is to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My current aim is to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am from india.
 - :telescope: I’m learning frontend web devlopment languages for now such as HTML, CSS, JS.
 
 - :seedling: Exploring New Technologies About Web Development.
@@ -50,14 +50,7 @@ My current aim is to become a Full Stack Developer <img src="https://media.giphy
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-- 👋 Hi, I’m @yadneshgondhali28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :flag: india
 
 <!---
 yadneshgondhali28/yadneshgondhali28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
