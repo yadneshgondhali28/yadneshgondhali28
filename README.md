@@ -11,6 +11,9 @@
        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m @yadneshgondhali28
     </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 👋 Hi, I’m @yadneshgondhali28
 - 👀 I’m interested in ...
